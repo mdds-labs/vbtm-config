@@ -25,7 +25,7 @@
   "server_encrypted": "tm-server-staging.hjm.bid",
   "local_encrypted": "192.168.2.36:3333",
   "server_auth": "https://tm-staging.vbtm.academy/api/auth",
-  "server_graphql": "https://tm-staging.vbtm.academy//api/graphql",
+  "server_graphql": "https://tm-staging.vbtm.academy/api/graphql",
    "gatewayList": [
    "http://cdn-ipfs-vn.hjm.bid",
     "http://cdn-ipfs-sgp.hjm.bid",
