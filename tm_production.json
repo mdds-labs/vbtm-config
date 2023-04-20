@@ -20,10 +20,10 @@
   "ipfs_gateway_local": "http://localhost:8080",
   "ipfs_gateway_server": "http://cdn-ipfs-vn.hjm.bid",
   "json_gateway": "https://cdn.hjm.bid/ipfs/bafybeigvmad4buyefinruapakaht6fslesvby74hahgay5dmmaqyb433ue/items/single/",
-  "url_download_app": "https://link.storjshare.io/jvint7tsyid65g2ocypgdkvkkimq/vbtm%2FApp-TM%2FVBTM-TM-V1.2.8.zip?download=1",
+  "url_download_app": "https://link.storjshare.io/jub6vuwwczzwwu4d5m4qxub7w6ya/vbtm%2FApp-TM%2FVBTM-TM-V1.2.9.zip?download=1",
   "url_app_vbtm_macos": "https://link.storjshare.io/juxade7tljfwqx2lkvvfia5xqvmq/vbtm%2FSetupVBTMBetaMac.zip?download=1",
   "url_app_vbtm_android": "https://link.storjshare.io/jutk7xoiexqvufdvk7vrdcziszfq/vbtm%2FApp%20Android%2Fvbtm-tm-v2.apk?download=1",
-  "version_windows": "v1.2.8",
+  "version_windows": "v1.2.9",
   "message_update_windows": [
     "Sửa tính năng lưu note",
     "Cho phép sử dụng dấu cách để tạm ngưng video bài học",
