@@ -22,6 +22,20 @@
   "json_gateway": "https://cdn-ipfs-vn.hjm.bid/ipfs/bafybeiet2zquc5uzzaoyu42lop2pdjw5qz4j4uihg3d3ygfdoeu6gevjhq/items/single/",
   "url_download_app_windows": "https://link.storjshare.io/jxfgyspk2gszyrsdvutrxkrbgsbq/vbtm%2FApp-TMAI%2FVBTM-TMAI-V1.2.8.zip?download=1",
   "url_download_app_macos": "https://link.storjshare.io/jvixel7vmvcjg7pgppau6tqoew6a/vbtm%2FVBTM-TMAI-V1.0.zip?download=1",
+  "version_windows": "v1.2.9",
+  "version_macos": "v1.1.2",
+  "message_update_windows": [
+    "Sửa tính năng lưu note",
+    "Cho phép sử dụng dấu cách để tạm ngưng video bài học",
+    "Sửa lỗi load lại video khi mở cửa sổ mới",
+    "Sửa lỗi thông báo cập nhật phiên bản mới"
+  ],
+  "message_update_macos": [
+    "Sửa tính năng lưu note",
+    "Cho phép sử dụng dấu cách để tạm ngưng video bài học",
+    "Sửa lỗi load lại video khi mở cửa sổ mới",
+    "Sửa lỗi thông báo cập nhật phiên bản mới"
+  ],
   "server_encrypted": "tmu-server.hjm.bid",
   "local_encrypted": "192.168.2.36:3333",
   "server_auth": "https://tmai.vbtm.academy/api/auth",
