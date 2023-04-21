@@ -19,7 +19,7 @@
   "cloud_gateway": "https://vgmvb.global.ssl.fastly.net",
   "ipfs_gateway_local": "http://localhost:8080",
   "ipfs_gateway_server": "https://cdn-ipfs-sgp.hjm.bid",
-  "json_gateway": "https://cdn-ipfs-vn.hjm.bid/ipfs/bafybeiet2zquc5uzzaoyu42lop2pdjw5qz4j4uihg3d3ygfdoeu6gevjhq/items/single/",
+  "json_gateway": "https://cdn-ipfs-vn.hjm.bid/ipfs/bafybeic47fx3kpadbc4o3wlt3ftitl3ya76nuqpaisz3o6ktq75n5uepv4/items/single/",
   "url_download_app_windows": "https://link.storjshare.io/jxfgyspk2gszyrsdvutrxkrbgsbq/vbtm%2FApp-TMAI%2FVBTM-TMAI-V1.2.8.zip?download=1",
   "url_download_app_macos": "https://link.storjshare.io/jvixel7vmvcjg7pgppau6tqoew6a/vbtm%2FVBTM-TMAI-V1.0.zip?download=1",
   "server_encrypted": "tmu-server.hjm.bid",
@@ -37,7 +37,6 @@
   "gatewayList": [
     "https://cdn.hjm.bid",
     "http://cdn-ipfs-vn.hjm.bid",
-    "http://cdn-ipfs-sgp.hjm.bid",
     "https://ipfs.filebase.io"
   ],
   "cookie_library_server": "jwt=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGkiOjIsImdycCI6MSwiaWF0IjoxNjcyOTgwMjIyLCJleHAiOjE3Njc2NTMwMjIsImF1ZCI6InVybjp3aWtpLmpzIiwiaXNzIjoidXJuOndpa2kuanMifQ.eZ5bGMsdSwI7InqtjrGyPW-5s5oW43ru9iAK9Gd382KFV4zK0lMsFnMAbLGnUWAMPStQviXCdVKsvp0_x7jJp4O8-cTQNjqaqYkeHUlm822wQle2675pnQfqdKS2yUZn_kPXmY3c4zdZUTuPbhNL6pzGKYSrZt4uLRAfrOurQ3uEGDp29dlyxMYR9Nw6-tegziFtrT4-Q3nnTon6uZ_b1lTvi8Mm555BCBa_wb__bXUyg7_OsQSacGIaru_FhNOA_TT3pnVXVyv2aWTVkOQaPHMlSc_JoHGAafozkWqVde2pf5cAHaxQr_ye_FNj1qs5lbrDdY9bQ3LEGW779y7FWQ",
