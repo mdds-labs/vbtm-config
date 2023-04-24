@@ -19,7 +19,7 @@
   "cloud_gateway": "https://vgmvb.global.ssl.fastly.net",
   "ipfs_gateway_local": "http://localhost:8080",
   "ipfs_gateway_server": "http://cdn-ipfs-vn.hjm.bid",
-  "json_gateway": "https://cdn.hjm.bid/ipfs/bafybeigvmad4buyefinruapakaht6fslesvby74hahgay5dmmaqyb433ue/items/single/",
+  "json_gateway": "https://cdn.hjm.bid/ipfs/bafybeic47fx3kpadbc4o3wlt3ftitl3ya76nuqpaisz3o6ktq75n5uepv4/items/single/",
   "url_download_app": "https://link.storjshare.io/jwnuxjevbxkoag6txmxbk6zjwllq/vbtm%2FApp-TM%2FVBTM-TM-V1.3.0.zip?download=1",
   "url_app_vbtm_macos": "https://link.storjshare.io/jxtffrwhdypurtbgjlbahgyv44uq/vbtm%2FApp-TM%2Fvbtm-tm-v1.1.2.zip?download=1",
   "url_app_vbtm_android": "https://link.storjshare.io/jxkmng3fywil5lblw65xlhgxqtna/vbtm%2FApp%20Android%2Fvbtm-tm-V1.1.4.apk?download=1",
