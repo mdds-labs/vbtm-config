@@ -21,17 +21,14 @@
   "ipfs_gateway_server": "http://cdn-ipfs-vn.hjm.bid",
   "json_gateway": "https://cdn.hjm.bid/ipfs/bafybeigaojiz5n2z3q5hyuewxnclqw6x5ikmnqpt7775upmj4oosnrjswq/items/single/",
   "url_download_app": "https://link.storjshare.io/jvh63v5raxrphyzskrjlr3q4tyma/vbtm%2FApp-TM%2FVBTM-TM-V1.3.1.zip?download=1",
-  "url_app_vbtm_macos": "https://link.storjshare.io/jxtffrwhdypurtbgjlbahgyv44uq/vbtm%2FApp-TM%2Fvbtm-tm-v1.1.2.zip?download=1",
+  "url_app_vbtm_macos": "https://link.storjshare.io/jw6pts2i5soxenut67bktmllr5sq/vbtm%2FApp-TM%2Fmacos-vbtm-tm-v1.0.3.zip?download=1",
   "url_app_vbtm_android": "https://link.storjshare.io/jxkmng3fywil5lblw65xlhgxqtna/vbtm%2FApp%20Android%2Fvbtm-tm-V1.1.4.apk?download=1",
   "version_windows": "v1.3.1",
-  "version_macos": "v1.1.2",
+  "version_macos": "v1.0.3",
   "message_update_windows": [
     "Sửa tính năng mất đáp án chọn trong trắc nghiệm"
   ],
   "message_update_macos": [
-    "Sửa tính năng lưu note",
-    "Cho phép sử dụng dấu cách để tạm ngưng video bài học",
-    "Sửa lỗi load lại video khi mở cửa sổ mới",
     "Sửa lỗi thông báo cập nhật phiên bản mới"
   ],
   "server_encrypted": "tm-server.hjm.bid",
