@@ -32,10 +32,7 @@
     "Cho phép người dùng tùy chọn có xóa dữ liệu người dùng khi xóa ứng dụng"
   ],
   "message_update_macos": [
-    "Sửa tính năng lưu note",
-    "Cho phép sử dụng dấu cách để tạm ngưng video bài học",
-    "Sửa lỗi load lại video khi mở cửa sổ mới",
-    "Sửa lỗi thông báo cập nhật phiên bản mới"
+    "Sửa lỗi play video"
   ],
   "server_encrypted": "tmu-server.hjm.bid",
   "local_encrypted": "192.168.2.36:3333",
