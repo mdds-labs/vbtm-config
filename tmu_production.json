@@ -22,17 +22,14 @@
   "ipfs_gateway_local": "http://localhost:8080",
   "ipfs_gateway_server": "https://cdn-ipfs-sgp.hjm.bid",
   "json_gateway": "https://cdn.hjm.bid/ipfs/bafybeihhpi3gwstpfttrlyczabkofzgmtd4mvuyamq33nqrxuhzmivfaei/items/single/",
-  "url_download_app_windows": "https://github.com/mdds-labs/tmai-release/releases/download/v1.3.0/VBTM-TMAI-V1.3.0.zip?download=1",
+  "url_download_app_windows": "https://github.com/mdds-labs/tmai-release/releases/download/v1.3.1/VBTM-TMAI-V1.3.1.zip?download=1",
   "url_download_app_macos": "https://link.storjshare.io/jx6cyvqnsyyw3dph7tojiqy2bwva/vbtm%2FApp-TMAI%2Fmacos-vbtm-tmu-v1.0.2.zip?download=1",
   "url_download_app_android": "https://link.storjshare.io/jwlgjlfc4bvuvd3qciwtotxxlmsa/vbtm%2FApp-TMAI%2Fandroid-vbtm-tmai-v1.0.2.apk?download=1",
   "version_windows": "v1.3.0",
   "version_macos": "v1.0.2",
   "message_update_windows": [
-    "Sửa tính năng lưu note",
-    "Cho phép sử dụng dấu cách để tạm ngưng video bài học",
-    "Sửa lỗi load lại video khi mở cửa sổ mới",
-    "Sửa lỗi thông báo cập nhật phiên bản mới",
-    "Cho phép người dùng tùy chọn có xóa dữ liệu người dùng khi xóa ứng dụng"
+    "Thêm chức năng logout tài khoản",
+    "Sửa lỗi mở video lần đầu"
   ],
   "message_update_macos": [
     "Sửa lỗi play video"
