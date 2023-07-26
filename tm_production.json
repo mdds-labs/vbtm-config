@@ -33,7 +33,7 @@
   "version_macos": "v1.0.3",
   "version_android": "v1.0.6",
   "message_update_windows": [
-    "Cập nhật bản vá lỗi làm bài trắc nghiệm"
+    "Tự động cập nhật dữ liệu câu hỏi "
   ],
   "message_update_macos": [
     "Sửa lỗi thông báo cập nhật phiên bản mới"
