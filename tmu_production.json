@@ -25,10 +25,11 @@
   "url_download_app_windows": "https://github.com/mdds-labs/tmai-release/releases/download/v1.3.3/VBTM-TMAI-v1.3.3.zip?download=1",
   "url_download_app_macos": "https://link.storjshare.io/jx6cyvqnsyyw3dph7tojiqy2bwva/vbtm%2FApp-TMAI%2Fmacos-vbtm-tmu-v1.0.2.zip?download=1",
   "url_download_app_android": "https://link.storjshare.io/jwlgjlfc4bvuvd3qciwtotxxlmsa/vbtm%2FApp-TMAI%2Fandroid-vbtm-tmai-v1.0.2.apk?download=1",
-  "version_windows": "v1.3.3",
+  "version_windows": "v1.3.4",
   "version_macos": "v1.0.2",
   "message_update_windows": [
-    "Tự động cập nhật câu hỏi"
+    "Tự động cập nhật câu hỏi", 
+    "Sửa lỗi cập nhật phần mềm"
   ],
   "message_update_macos": [
     "Sửa lỗi play video"
