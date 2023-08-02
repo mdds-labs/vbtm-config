@@ -28,7 +28,8 @@
   "version_windows": "1.3.5",
   "version_macos": "v1.0.2",
   "message_update_windows": [
-    "Chỉnh sửa thư viện sách"
+    "Chỉnh sửa thư viện sách",
+    "Sửa lỗi download app"
   ],
   "message_update_macos": [
     "Sửa lỗi play video"
