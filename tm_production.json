@@ -36,7 +36,9 @@
     "Tự động cập nhật dữ liệu câu hỏi "
   ],
   "message_update_macos": [
-    "Sửa lỗi thông báo cập nhật phiên bản mới"
+    "Sửa lỗi thông báo cập nhật phiên bản mới",
+    "Thêm chức năng logout",
+    "Cập nhật bản vá lỗi giành cho trắc nghiệm"
   ],
   "message_update_android": [
     "Sửa lỗi bị khóa trắc nghiệm (Gỡ cài đặt và xóa dữ liệu để khắc phục)"
