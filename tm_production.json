@@ -30,7 +30,7 @@
   "url_app_vbtm_android": "https://link.storjshare.io/jvmtqug4ntkxrjejyzybbsqunwuq/vbtm%2FApp-TM%2Fandroid-vbtm-tm-v1.0.6.apk?download=1",
   "url_app_vbtm_tablet": "https://github.com/mdds-labs/tm-release/releases/download/v1.0.9/VBTM-V1.0.9.apk?download=1",
   "version_windows": "1.4.7",
-  "version_macos": "v1.0.3",
+  "version_macos": "1.0.4",
   "version_android": "v1.0.6",
   "message_update_windows": [
     "Tự động cập nhật dữ liệu câu hỏi "
