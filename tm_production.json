@@ -41,7 +41,7 @@
   "message_update_android": [
     "Sửa lỗi bị khóa trắc nghiệm (Gỡ cài đặt và xóa dữ liệu để khắc phục)"
   ],
-  "data_update_at": "09-08-2023",
+  "data_update_at": "16-08-2023",
   "server_encrypted": "tm-server.hjm.bid",
   "local_encrypted": "192.168.2.36:3333",
   "server_auth": "https://tm.vbtm.academy/api/auth",
