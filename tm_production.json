@@ -31,12 +31,16 @@
   "url_app_vbtm_tablet": "https://github.com/mdds-labs/tm-release/releases/download/v1.0.9/VBTM-V1.0.9.apk?download=1",
   "version_windows": "1.5.0",
   "version_macos": "1.0.5",
+  "version_tablet": "1.1.0",
   "version_android": "v1.0.6",
   "message_update_windows": [
     "Tự động cập nhật dữ liệu câu hỏi ",
     "Sửa lỗi không hiển thị môn học"
   ],
   "message_update_macos": [
+    "Sửa lỗi player video"
+  ],
+  "message_update_tablet": [
     "Sửa lỗi player video"
   ],
   "message_update_android": [
