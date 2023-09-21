@@ -25,12 +25,17 @@
   "url_download_app_windows": "https://github.com/mdds-labs/tmai-release/releases/download/v1.3.8/VBTM-TMAI-v1.3.8.zip?download=1",
   "url_download_app_macos": "https://github.com/mdds-labs/tmai-release/releases/download/macos_v1.0.4/vbtm-tmu-v1.0.4.zip?download=1",
   "url_download_app_android": "https://link.storjshare.io/jwlgjlfc4bvuvd3qciwtotxxlmsa/vbtm%2FApp-TMAI%2Fandroid-vbtm-tmai-v1.0.2.apk?download=1",
+  "url_download_app_tablet": "https://link.storjshare.io/jwlgjlfc4bvuvd3qciwtotxxlmsa/vbtm%2FApp-TMAI%2Fandroid-vbtm-tmai-v1.0.2.apk?download=1",
   "version_windows": "1.3.8",
+  "version_tablet": "1.0.2",
   "version_macos": "1.0.4",
   "message_update_windows": [
     "Cập nhật bản vá lỗi hiển thị môn học"
   ],
   "message_update_macos": [
+    "Sửa lỗi play video"
+  ],
+  "message_update_tablet": [
     "Sửa lỗi play video"
   ],
   "data_update_at" : "16/08/2023",
