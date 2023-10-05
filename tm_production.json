@@ -50,6 +50,7 @@
   "server_encrypted": "tm-server.hjm.bid",
   "local_encrypted": "192.168.2.36:3333",
   "server_auth": "https://tm.vbtm.academy/api/auth",
+  "server_canvas": "https://canvas-tm.hjm.bid",
   "server_graphql": "https://tm.vbtm.academy/api/graphql",
   "status_player": "online",
   "vbtm_tm_domain": "https://tm.vbtm.academy",
