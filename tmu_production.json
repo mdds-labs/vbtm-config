@@ -40,6 +40,7 @@
   ],
   "data_update_at" : "16/08/2023",
   "server_encrypted": "tmu-server.hjm.bid",
+  "server_canvas": "https://canvas-tmu.hjm.bid",
   "local_encrypted": "192.168.2.36:3333",
   "server_auth": "https://tmai.vbtm.academy/api/auth",
   "server_graphql": "https://tmai.vbtm.academy/api/graphql",
