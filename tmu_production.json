@@ -41,6 +41,9 @@
   "message_update_tablet": [
     "Sửa lỗi play video"
   ],
+  "message_update_android": [
+    "Tự động cập nhật dữ liệu người dùng"
+  ]
   "data_update_at" : "16/08/2023",
   "server_encrypted": "tmu-server.hjm.bid",
   "server_canvas": "https://canvas-tmu.hjm.bid",
