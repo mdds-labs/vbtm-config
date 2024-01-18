@@ -22,17 +22,16 @@
   "ipfs_gateway_local": "http://localhost:8080",
   "ipfs_gateway_server": "https://cdn-ipfs-sgp.hjm.bid",
   "json_gateway": "https://cdn.vgm.tv/ipfs/Qmcm1tzPUF3o2VbRxobniqDkCUj4hPm15seHFrkkk32ws1/items/single/",
-  "url_download_app_windows": "https://github.com/mdds-labs/tmai-release/releases/download/v1.4.0/VBTM-TMAI-v1.4.0.zip?download=1",
+  "url_download_app_windows": "https://github.com/mdds-labs/tmai-release/releases/download/v1.4.1/VBTM-TMAI-V1.4.1.zip?download=1",
   "url_download_app_macos": "https://github.com/mdds-labs/tmai-release/releases/download/macos_v1.0.4/vbtm-tmu-v1.0.4.zip?download=1",
   "url_download_app_android": "https://link.storjshare.io/jwlgjlfc4bvuvd3qciwtotxxlmsa/vbtm%2FApp-TMAI%2Fandroid-vbtm-tmai-v1.0.2.apk?download=1",
   "url_download_app_tablet": "https://github.com/mdds-labs/tmai-release/releases/download/tablet_v1.0.2_v2/TMAI-v1.0.2_v2.apk?download=1",
-  "version_windows": "1.4.0",
+  "version_windows": "1.4.1",
   "version_tablet": "1.0.2",
   "version_macos": "1.0.4",
   "version_android": "1.0.2",
   "message_update_windows": [
-    "Cập nhật bản vá lỗi hiển thị môn học",
-    "Sửa làm bài trắc nghiệm",
+    "Cập nhật dữ liệu thư viện",
     "Tự động cập nhật dữ liệu môn học"
   ],
   "message_update_macos": [
