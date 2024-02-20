@@ -47,7 +47,7 @@
     "Cập nhật dữ liệu offline",
     "Tự động cập nhật dữ liệu người dùng"
   ],
-  "data_update_at": "01-02-2024",
+  "data_update_at": "20-02-2024",
   "server_encrypted": "tm-server.hjm.bid",
   "local_encrypted": "192.168.2.36:3333",
   "server_auth": "https://tm.vbtm.academy/api/auth",
