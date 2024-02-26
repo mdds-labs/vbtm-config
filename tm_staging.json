@@ -48,7 +48,7 @@
     "Tự động cập nhật dữ liệu người dùng"
   ],
   "data_update_at": "04-01-2024",
-  "server_encrypted": "tm-server.hjm.bid",
+  "server_encrypted": "192.168.1.31:3333",
   "local_encrypted": "192.168.2.36:3333",
   "server_auth": "https://tm-staging.vbtm.academy/api/auth",
   "server_canvas": "https://canvas-tm.hjm.bid",
