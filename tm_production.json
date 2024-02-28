@@ -1,11 +1,8 @@
 {
   "api_video": "https://vgmvb.global.ssl.fastly.net/encrypted/API/items/single/",
   "peers": [
-    "/dns4/vn.hjm.bid/udp/4001/quic/p2p/12D3KooWJVA45ydfCAqRTjJ4SHxdsbyGehvK5EgPwvEM5ifsLPeY",
-    "/dns4/node0.hjm.bid/udp/4001/quic/p2p/12D3KooWEyy3SPoLqR88qYFiHh1R8xbYSUAQpt8Mm2RTgr6xng75",
-    "/dns4/node1.hjm.bid/udp/4001/quic/p2p/12D3KooWBcvrpoQKataKvg8ksXs7oFA5qRfW7xZZsH2FJyLBgBKp",
-    "/dns4/node2.hjm.bid/udp/4001/quic/p2p/12D3KooWDhPnr6uDGi9HvC9bfBRAwsC7tGhP8N9bn6eKX2JUB4BN",
-    "/dns4/node3.hjm.bid/udp/4001/quic/p2p/12D3KooWNLYFMydtVxNctjQZssGFxt6NUF9dmZCouwbtnuneGQgP",
+     "/dns4/node0.hjm.bid/udp/4001/quic-v1/p2p/12D3KooWJVA45ydfCAqRTjJ4SHxdsbyGehvK5EgPwvEM5ifsLPeY",
+    "/dns4/node1.hjm.bid/udp/4001/quic-v1/p2p/12D3KooWMTonuzH86waA39BYPpCeM4sCuEePBfsfiGret2mhcerL",
     "/dns4/ct1.hjm.bid/udp/4001/quic-v1/p2p/12D3KooWQRn6fopodKZfuZhBZTLrb8UXNTmDX1EgMj6if8g1xBUh",
     "/dns4/hn1.hjm.bid/udp/4001/quic-v1/p2p/12D3KooWSNoAtqfCUC1BA333gZQJyA95ye4gFnCaDgWxDP9sY7dG"
   ],
