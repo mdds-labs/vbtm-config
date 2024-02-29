@@ -1,219 +1,246 @@
 {
-  "API": {
-    "HTTPHeaders": {}
-  },
-  "Addresses": {
-    "API": "/ip4/127.0.0.1/tcp/5001",
-    "Announce": [],
-    "AppendAnnounce": [],
-    "Gateway": "/ip4/127.0.0.1/tcp/8080",
-    "NoAnnounce": [],
-    "Swarm": [
-      "/ip4/0.0.0.0/tcp/4001",
-      "/ip6/::/tcp/4001",
-      "/ip4/0.0.0.0/udp/4001/quic",
-      "/ip4/0.0.0.0/udp/4001/quic-v1",
-      "/ip4/0.0.0.0/udp/4001/quic-v1/webtransport",
-      "/ip6/::/udp/4001/quic",
-      "/ip6/::/udp/4001/quic-v1",
-      "/ip6/::/udp/4001/quic-v1/webtransport"
-    ]
-  },
-  "AutoNAT": {},
-  "Bootstrap": [
-   "/ip4/104.131.131.82/udp/4001/quic/p2p/QmaCpDMGvV2BGHeYERUEnRQAwe3N8SzbUtfsmvsqQLuvuJ",
-    "/ip4/104.131.131.82/tcp/4001/p2p/QmaCpDMGvV2BGHeYERUEnRQAwe3N8SzbUtfsmvsqQLuvuJ",
-    "/dnsaddr/bootstrap.libp2p.io/p2p/QmcZf59bWwK5XFi76CZX8cbJ4BhTzzA3gU1ZjYZcYW3dwt",
-    "/dnsaddr/bootstrap.libp2p.io/p2p/QmbLHAnMoJPWSCR5Zhtx6BHJX9KiKNN6tpvbUcqanj75Nb",
-    "/dnsaddr/bootstrap.libp2p.io/p2p/QmQCU2EcMqAqQPR2i9bChDtGNJchTbq5TbXJJ16u19uLTa",
-    "/dnsaddr/bootstrap.libp2p.io/p2p/QmNnooDu7bfjPFoTZYxMNLWUQJyrVwtbZg5gBMjTezGAJN",
-    "/dns4/node0.hjm.bid/udp/4001/quic-v1/p2p/12D3KooWJVA45ydfCAqRTjJ4SHxdsbyGehvK5EgPwvEM5ifsLPeY",
-    "/dns4/node1.hjm.bid/udp/4001/quic-v1/p2p/12D3KooWMTonuzH86waA39BYPpCeM4sCuEePBfsfiGret2mhcerL",
-    "/dns4/ct1.hjm.bid/udp/4001/quic-v1/p2p/12D3KooWQRn6fopodKZfuZhBZTLrb8UXNTmDX1EgMj6if8g1xBUh",
-    "/dns4/hn1.hjm.bid/udp/4001/quic-v1/p2p/12D3KooWSNoAtqfCUC1BA333gZQJyA95ye4gFnCaDgWxDP9sY7dG"
-  ],
-  "DNS": {
-    "Resolvers": {}
-  },
-  "Datastore": {
-    "BloomFilterSize": 0,
-    "GCPeriod": "1h",
-    "HashOnRead": false,
-    "Spec": {
-      "mounts": [
-        {
-          "child": {
-            "path": "blocks",
-            "shardFunc": "/repo/flatfs/shard/v1/next-to-last/2",
-            "sync": true,
-            "type": "flatfs"
-          },
-          "mountpoint": "/blocks",
-          "prefix": "flatfs.datastore",
-          "type": "measure"
+    "Identity": {
+        "PeerID": "12D3KooWDZwscxE1WcoXT3uDYVGnmT78SoGBkCtrnG7vR27JFVrt",
+        "PrivKey": "CAESQLwi7o44FsRHv7KxUktXvie3WiDCaJMCJYjjtPiIPP5GN70lSlu73cGiu3nrzir/pQ7qoG7ltd48LoUbbFV8EH0="
+    },
+    "Datastore": {
+        "StorageMax": "10GB",
+        "StorageGCWatermark": 90,
+        "GCPeriod": "1h",
+        "Spec": {
+            "mounts": [
+                {
+                    "child": {
+                        "path": "blocks",
+                        "shardFunc": "/repo/flatfs/shard/v1/next-to-last/2",
+                        "sync": true,
+                        "type": "flatfs"
+                    },
+                    "mountpoint": "/blocks",
+                    "prefix": "flatfs.datastore",
+                    "type": "measure"
+                },
+                {
+                    "child": {
+                        "compression": "none",
+                        "path": "datastore",
+                        "type": "levelds"
+                    },
+                    "mountpoint": "/",
+                    "prefix": "leveldb.datastore",
+                    "type": "measure"
+                }
+            ],
+            "type": "mount"
         },
-        {
-          "child": {
-            "compression": "none",
-            "path": "datastore",
-            "type": "levelds"
-          },
-          "mountpoint": "/",
-          "prefix": "leveldb.datastore",
-          "type": "measure"
+        "HashOnRead": false,
+        "BloomFilterSize": 0
+    },
+    "Addresses": {
+        "Swarm": [
+            "/ip4/0.0.0.0/tcp/4001",
+            "/ip6/::/tcp/4001",
+            "/ip4/0.0.0.0/udp/4001/quic",
+            "/ip4/0.0.0.0/udp/4001/quic-v1",
+            "/ip4/0.0.0.0/udp/4001/quic-v1/webtransport",
+            "/ip6/::/udp/4001/quic",
+            "/ip6/::/udp/4001/quic-v1",
+            "/ip6/::/udp/4001/quic-v1/webtransport"
+        ],
+        "Announce": [],
+        "AppendAnnounce": [],
+        "NoAnnounce": [],
+        "API": "/ip4/127.0.0.1/tcp/5001",
+        "Gateway": "/ip4/127.0.0.1/tcp/8080"
+    },
+    "Mounts": {
+        "IPFS": "/ipfs",
+        "IPNS": "/ipns",
+        "FuseAllowOther": false
+    },
+    "Discovery": {
+        "MDNS": {
+            "Enabled": true
         }
-      ],
-      "type": "mount"
     },
-    "StorageGCWatermark": 90,
-    "StorageMax": "10GB"
-  },
-  "Discovery": {
-    "MDNS": {
-      "Enabled": true
-    }
-  },
-  "Experimental": {
-    "AcceleratedDHTClient": false,
-    "FilestoreEnabled": false,
-    "GraphsyncEnabled": false,
-    "Libp2pStreamMounting": false,
-    "P2pHttpProxy": false,
-    "StrategicProviding": false,
-    "UrlstoreEnabled": false
-  },
-  "Gateway": {
-    "APICommands": [],
-    "HTTPHeaders": {
-      "Access-Control-Allow-Headers": [
-        "X-Requested-With",
-        "Range",
-        "User-Agent"
-      ],
-      "Access-Control-Allow-Methods": [
-        "GET"
-      ],
-      "Access-Control-Allow-Origin": [
-        "*"
-      ]
+    "Routing": {
+        "Routers": null,
+        "Methods": null
     },
-    "NoDNSLink": false,
-    "NoFetch": false,
-    "PathPrefixes": [],
-    "PublicGateways": {
-      "localhost": {
-        "Paths": ["/ipfs", "/ipns"],
-        "UseSubdomains": true
-      }
+    "Ipns": {
+        "RepublishPeriod": "",
+        "RecordLifetime": "",
+        "ResolveCacheSize": 128
     },
-    "RootRedirect": "",
-    "Writable": false
-  },
-  "Identity": {
-    "PeerID": "12D3KooWEcjKU8amJPL7rV46ALMb3rjkXnuWLCWEaya6cYU9U5UX",
-    "PrivKey": "CAESQMjb+aTiWoLGQcncuKFPsSvhEPJKTezJDrtpCK630owXR09hOOm54NTFu/y/AHqA1rW3xq0At9cEOfJJN2artaQ="
-  },
-  "Internal": {},
-  "Ipns": {
-    "RecordLifetime": "",
-    "RepublishPeriod": "",
-    "ResolveCacheSize": 128
-  },
-  "Migration": {
-    "DownloadSources": [],
-    "Keep": ""
-  },
-  "Mounts": {
-    "FuseAllowOther": false,
-    "IPFS": "/ipfs",
-    "IPNS": "/ipns"
-  },
-  "Peering": {
-    "Peers": [
-      {
-        "ID": "QmcFf2FH3CEgTNHeMRGhN7HNHU1EXAxoEk6EFuSyXCsvRE",
-        "Addrs": ["/dnsaddr/node-1.ingress.cloudflare-ipfs.com"]
-      },
-      {
-        "ID": "QmcFmLd5ySfk2WZuJ1mfSWLDjdmHZq7rSAua4GoeSQfs1z",
-        "Addrs": ["/dnsaddr/node-2.ingress.cloudflare-ipfs.com"]
-      },
-      {
-        "ID": "QmcfFmzSDVbwexQ9Au2pt5YEXHK5xajwgaU6PpkbLWerMa",
-        "Addrs": ["/dnsaddr/node-3.ingress.cloudflare-ipfs.com"]
-      },
-      {
-        "ID": "QmcfJeB3Js1FG7T8YaZATEiaHqNKVdQfybYYkbT1knUswx",
-        "Addrs": ["/dnsaddr/node-4.ingress.cloudflare-ipfs.com"]
-      },
-      {
-        "ID": "QmcfVvzK4tMdFmpJjEKDUoqRgP4W9FnmJoziYX5GXJJ8eZ",
-        "Addrs": ["/dnsaddr/node-5.ingress.cloudflare-ipfs.com"]
-      },
-      {
-        "ID": "QmcfZD3VKrUxyP9BbyUnZDpbqDnT7cQ4WjPP8TRLXaoE7G",
-        "Addrs": ["/dnsaddr/node-6.ingress.cloudflare-ipfs.com"]
-      },
-      {
-        "ID": "QmcfZP2LuW4jxviTeG8fi28qjnZScACb8PEgHAc17ZEri3",
-        "Addrs": ["/dnsaddr/node-7.ingress.cloudflare-ipfs.com"]
-      },
-      {
-        "ID": "QmcfgsJsMtx6qJb74akCw1M24X1zFwgGo11h1cuhwQjtJP",
-        "Addrs": ["/dnsaddr/node-8.ingress.cloudflare-ipfs.com"]
-      },
-      {
-        "ID": "Qmcfr2FC7pFzJbTSDfYaSy1J8Uuy8ccGLeLyqJCKJvTHMi",
-        "Addrs": ["/dnsaddr/node-9.ingress.cloudflare-ipfs.com"]
-      },
-      {
-        "ID": "QmcfR3V5YAtHBzxVACWCzXTt26SyEkxdwhGJ6875A8BuWx",
-        "Addrs": ["/dnsaddr/node-10.ingress.cloudflare-ipfs.com"]
-      },
-      {
-        "ID": "Qmcfuo1TM9uUiJp6dTbm915Rf1aTqm3a3dnmCdDQLHgvL5",
-        "Addrs": ["/dnsaddr/node-11.ingress.cloudflare-ipfs.com"]
-      },
-      {
-        "ID": "QmcfV2sg9zaq7UUHVCGuSvT2M2rnLBAPsiE79vVyK3Cuev",
-        "Addrs": ["/dnsaddr/node-12.ingress.cloudflare-ipfs.com"]
-      }
-    ]
-  },
-  "Pinning": {
-    "RemoteServices": {}
-  },
-  "Plugins": {
-    "Plugins": null
-  },
-  "Provider": {
-    "Strategy": ""
-  },
-  "Pubsub": {
-    "DisableSigning": false,
-    "Router": ""
-  },
-  "Reprovider": {},
-  "Routing": {
-    "Methods": null,
-    "Routers": null
-  },
-  "Swarm": {
-    "AddrFilters": null,
-    "ConnMgr": {},
-    "DisableBandwidthMetrics": false,
-    "DisableNatPortMap": false,
-    "RelayClient": {
-      "Enabled" : true
+    "Bootstrap": [
+        "/ip4/104.131.131.82/udp/4001/quic/p2p/QmaCpDMGvV2BGHeYERUEnRQAwe3N8SzbUtfsmvsqQLuvuJ",
+        "/ip4/104.131.131.82/tcp/4001/p2p/QmaCpDMGvV2BGHeYERUEnRQAwe3N8SzbUtfsmvsqQLuvuJ",
+        "/dnsaddr/bootstrap.libp2p.io/p2p/QmcZf59bWwK5XFi76CZX8cbJ4BhTzzA3gU1ZjYZcYW3dwt",
+        "/dnsaddr/bootstrap.libp2p.io/p2p/QmbLHAnMoJPWSCR5Zhtx6BHJX9KiKNN6tpvbUcqanj75Nb",
+        "/dnsaddr/bootstrap.libp2p.io/p2p/QmQCU2EcMqAqQPR2i9bChDtGNJchTbq5TbXJJ16u19uLTa",
+        "/dnsaddr/bootstrap.libp2p.io/p2p/QmNnooDu7bfjPFoTZYxMNLWUQJyrVwtbZg5gBMjTezGAJN",
+        "/dns4/node0.hjm.bid/udp/4001/quic-v1/p2p/12D3KooWJVA45ydfCAqRTjJ4SHxdsbyGehvK5EgPwvEM5ifsLPeY",
+        "/dns4/node1.hjm.bid/udp/4001/quic-v1/p2p/12D3KooWMTonuzH86waA39BYPpCeM4sCuEePBfsfiGret2mhcerL",
+        "/dns4/ct1.hjm.bid/udp/4001/quic-v1/p2p/12D3KooWQRn6fopodKZfuZhBZTLrb8UXNTmDX1EgMj6if8g1xBUh",
+        "/dns4/hn1.hjm.bid/udp/4001/quic-v1/p2p/12D3KooWSNoAtqfCUC1BA333gZQJyA95ye4gFnCaDgWxDP9sY7dG"
+    ],
+    "Gateway": {
+        "HTTPHeaders": {
+            "Access-Control-Allow-Headers": [
+                "X-Requested-With",
+                "Range",
+                "User-Agent"
+            ],
+            "Access-Control-Allow-Methods": [
+                "GET"
+            ],
+            "Access-Control-Allow-Origin": [
+                "*"
+            ]
+        },
+        "RootRedirect": "",
+        "Writable": false,
+        "PathPrefixes": [],
+        "APICommands": [],
+        "NoFetch": false,
+        "NoDNSLink": false,
+        "PublicGateways": {
+            "localhost": {
+                "Paths": [
+                    "/ipfs",
+                    "/ipns"
+                ],
+                "UseSubdomains": true
+            }
+        }
     },
-    "RelayService": {
-      "Enabled" : true
+    "API": {
+        "HTTPHeaders": {}
     },
-    "ResourceMgr": {},
-    "Transports": {
-      "Multiplexers": {},
-      "Network": {},
-      "Security": {}
-    }
-  }
+    "Swarm": {
+        "AddrFilters": null,
+        "DisableBandwidthMetrics": false,
+        "DisableNatPortMap": false,
+        "RelayClient": {
+            "Enabled": true
+        },
+        "RelayService": {
+            "Enabled": true
+        },
+        "Transports": {
+            "Network": {},
+            "Security": {},
+            "Multiplexers": {}
+        },
+        "ConnMgr": {},
+        "ResourceMgr": {}
+    },
+    "AutoNAT": {},
+    "Pubsub": {
+        "Router": "",
+        "DisableSigning": false
+    },
+    "Peering": {
+        "Peers": [
+            {
+                "ID": "QmcFf2FH3CEgTNHeMRGhN7HNHU1EXAxoEk6EFuSyXCsvRE",
+                "Addrs": [
+                    "/dnsaddr/node-1.ingress.cloudflare-ipfs.com"
+                ]
+            },
+            {
+                "ID": "QmcFmLd5ySfk2WZuJ1mfSWLDjdmHZq7rSAua4GoeSQfs1z",
+                "Addrs": [
+                    "/dnsaddr/node-2.ingress.cloudflare-ipfs.com"
+                ]
+            },
+            {
+                "ID": "QmcfFmzSDVbwexQ9Au2pt5YEXHK5xajwgaU6PpkbLWerMa",
+                "Addrs": [
+                    "/dnsaddr/node-3.ingress.cloudflare-ipfs.com"
+                ]
+            },
+            {
+                "ID": "QmcfJeB3Js1FG7T8YaZATEiaHqNKVdQfybYYkbT1knUswx",
+                "Addrs": [
+                    "/dnsaddr/node-4.ingress.cloudflare-ipfs.com"
+                ]
+            },
+            {
+                "ID": "QmcfVvzK4tMdFmpJjEKDUoqRgP4W9FnmJoziYX5GXJJ8eZ",
+                "Addrs": [
+                    "/dnsaddr/node-5.ingress.cloudflare-ipfs.com"
+                ]
+            },
+            {
+                "ID": "QmcfZD3VKrUxyP9BbyUnZDpbqDnT7cQ4WjPP8TRLXaoE7G",
+                "Addrs": [
+                    "/dnsaddr/node-6.ingress.cloudflare-ipfs.com"
+                ]
+            },
+            {
+                "ID": "QmcfZP2LuW4jxviTeG8fi28qjnZScACb8PEgHAc17ZEri3",
+                "Addrs": [
+                    "/dnsaddr/node-7.ingress.cloudflare-ipfs.com"
+                ]
+            },
+            {
+                "ID": "QmcfgsJsMtx6qJb74akCw1M24X1zFwgGo11h1cuhwQjtJP",
+                "Addrs": [
+                    "/dnsaddr/node-8.ingress.cloudflare-ipfs.com"
+                ]
+            },
+            {
+                "ID": "Qmcfr2FC7pFzJbTSDfYaSy1J8Uuy8ccGLeLyqJCKJvTHMi",
+                "Addrs": [
+                    "/dnsaddr/node-9.ingress.cloudflare-ipfs.com"
+                ]
+            },
+            {
+                "ID": "QmcfR3V5YAtHBzxVACWCzXTt26SyEkxdwhGJ6875A8BuWx",
+                "Addrs": [
+                    "/dnsaddr/node-10.ingress.cloudflare-ipfs.com"
+                ]
+            },
+            {
+                "ID": "Qmcfuo1TM9uUiJp6dTbm915Rf1aTqm3a3dnmCdDQLHgvL5",
+                "Addrs": [
+                    "/dnsaddr/node-11.ingress.cloudflare-ipfs.com"
+                ]
+            },
+            {
+                "ID": "QmcfV2sg9zaq7UUHVCGuSvT2M2rnLBAPsiE79vVyK3Cuev",
+                "Addrs": [
+                    "/dnsaddr/node-12.ingress.cloudflare-ipfs.com"
+                ]
+            }
+        ]
+    },
+    "DNS": {
+        "Resolvers": {}
+    },
+    "Migration": {
+        "DownloadSources": [],
+        "Keep": ""
+    },
+    "Provider": {
+        "Strategy": ""
+    },
+    "Reprovider": {},
+    "Experimental": {
+        "FilestoreEnabled": false,
+        "UrlstoreEnabled": false,
+        "GraphsyncEnabled": false,
+        "Libp2pStreamMounting": false,
+        "P2pHttpProxy": false,
+        "StrategicProviding": false,
+        "AcceleratedDHTClient": false
+    },
+    "Plugins": {
+        "Plugins": null
+    },
+    "Pinning": {
+        "RemoteServices": {}
+    },
+    "Internal": {}
 }
