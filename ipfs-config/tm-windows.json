@@ -105,7 +105,7 @@
         "Paths": ["/ipfs", "/ipns"],
         "UseSubdomains": true
       }
-    }
+    },
     "RootRedirect": "",
     "Writable": false
   },
