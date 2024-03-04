@@ -21,7 +21,7 @@
   "cloud_gateway": "https://vgmvb.global.ssl.fastly.net",
   "ipfs_gateway_local": "http://localhost:8080",
   "ipfs_gateway_server": "http://cdn-ipfs-vn.hjm.bid",
-  "json_gateway": "https://cdn.vgm.tv/ipfs/QmXMoYokxv6J2VDHTauyCJt8xUmKHkvupjiRnidKp4YHWe/items/single/",
+  "json_gateway": "https://cdn1.vgm.tv/ipfs/QmXMoYokxv6J2VDHTauyCJt8xUmKHkvupjiRnidKp4YHWe/items/single/",
   "url_download_app": "https://github.com/mdds-labs/tm-release/releases/download/v1.5.5/VBTM-TM-v1.5.5.zip?download=1",
   "url_app_vbtm_macos": "https://github.com/mdds-labs/tm-release/releases/download/macos_v1.0.5/vbtm-tm-v1.0.5.zip?download=1",
   "url_app_vbtm_android": "https://github.com/mdds-labs/tm-release/releases/download/android_v1.0.7/VBTM-V1.0.7.apk?download=1",
