@@ -21,7 +21,7 @@
   "cloud_gateway": "https://vgmvb.global.ssl.fastly.net",
   "ipfs_gateway_local": "http://localhost:8080",
   "ipfs_gateway_server": "https://cdn-ipfs-sgp.hjm.bid",
-  "json_gateway": "https://cdn.vgm.tv/ipfs/Qmcm1tzPUF3o2VbRxobniqDkCUj4hPm15seHFrkkk32ws1/items/single/",
+  "json_gateway": "https://cdn1.vgm.tv/ipfs/Qmcm1tzPUF3o2VbRxobniqDkCUj4hPm15seHFrkkk32ws1/items/single/",
   "url_download_app_windows": "https://github.com/mdds-labs/tmai-release/releases/download/v1.4.2/VBTM-TMAI-v1.4.2.zip?download=1",
   "url_download_app_macos": "https://github.com/mdds-labs/tmai-release/releases/download/macos_v1.0.4/vbtm-tmu-v1.0.4.zip?download=1",
   "url_download_app_android": "https://link.storjshare.io/jwlgjlfc4bvuvd3qciwtotxxlmsa/vbtm%2FApp-TMAI%2Fandroid-vbtm-tmai-v1.0.2.apk?download=1",
