@@ -47,7 +47,7 @@
   "data_update_at" : "16/08/2023",
   "server_encrypted": "192.168.1.31",
   "server_canvas": "https://canvas-tmu.hjm.bid",
-  "local_encrypted": "192.168.2.36:3333",
+  "local_encrypted": "192.168.1.31:3333",
   "server_auth": "https://tmai.vbtm.academy/api/auth",
   "server_graphql": "https://tmai.vbtm.academy/api/graphql",
   "server_wiki": "https://n8n-vb.hjm.bid/webhook/create-wiki",
