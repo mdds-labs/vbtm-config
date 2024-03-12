@@ -45,7 +45,7 @@
     "Tự động cập nhật dữ liệu người dùng"
   ],
   "data_update_at" : "16/08/2023",
-  "server_encrypted": "192.168.1.31",
+  "server_encrypted": "192.168.1.31:3333",
   "server_canvas": "https://canvas-tmu.hjm.bid",
   "local_encrypted": "192.168.1.31:3333",
   "server_auth": "https://tmai.vbtm.academy/api/auth",
