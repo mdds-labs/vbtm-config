@@ -1,7 +1,6 @@
 {
   "api_video": "https://vgmvb.global.ssl.fastly.net/encrypted/API/items/single/",
   "peers": [
-    "/dns4/ct1.hjm.bid/udp/4001/quic-v1/p2p/12D3KooWQRn6fopodKZfuZhBZTLrb8UXNTmDX1EgMj6if8g1xBUh",
     "/dns4/node0.hjm.bid/udp/4001/quic-v1/p2p/12D3KooWJVA45ydfCAqRTjJ4SHxdsbyGehvK5EgPwvEM5ifsLPeY",
     "/dns4/node1.hjm.bid/udp/4001/quic-v1/p2p/12D3KooWMTonuzH86waA39BYPpCeM4sCuEePBfsfiGret2mhcerL",
     "/dns4/ct1.hjm.bid/udp/4001/quic-v1/p2p/12D3KooWQRn6fopodKZfuZhBZTLrb8UXNTmDX1EgMj6if8g1xBUh",
