@@ -25,9 +25,9 @@
   "url_download_app_windows": "https://github.com/mdds-labs/tmai-release/releases/download/v1.4.3/VBTM-TMAI-v1.4.3.rar?download=1",
   "url_download_app_macos": "https://github.com/mdds-labs/tmai-release/releases/download/macos_v1.0.5/vbtm-tmu-v1.0.5.zip?download=1",
   "url_download_app_android": "https://link.storjshare.io/jwlgjlfc4bvuvd3qciwtotxxlmsa/vbtm%2FApp-TMAI%2Fandroid-vbtm-tmai-v1.0.2.apk?download=1",
-  "url_download_app_tablet": "https://github.com/mdds-labs/tmai-release/releases/download/tablet_v1.0.2_v2/TMAI-v1.0.2_v2.apk?download=1",
+  "url_download_app_tablet": "https://github.com/mdds-labs/tmai-release/releases/download/tablet_v1.0.3/VBTM-TMAI-V1.0.3.apk?download=1",
   "version_windows": "1.4.3",
-  "version_tablet": "1.0.2",
+  "version_tablet": "1.0.3",
   "version_macos": "1.0.5",
   "version_android": "1.0.2",
   "message_update_windows": [
