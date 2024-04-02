@@ -23,7 +23,7 @@
   "ipfs_gateway_server": "https://cdn-ipfs-sgp.hjm.bid",
   "json_gateway": "https://cdn1.vgm.tv/ipfs/Qmcm1tzPUF3o2VbRxobniqDkCUj4hPm15seHFrkkk32ws1/items/single/",
   "url_download_app_windows": "https://github.com/mdds-labs/tmai-release/releases/download/v1.4.4/VBTM-TMAI-v1.4.4.2.rar?download=1",
-  "url_download_app_macos": "https://github.com/mdds-labs/tmai-release/releases/download/macos_v1.0.5/vbtm-tmu-v1.0.5.zip?download=1",
+  "url_download_app_macos": "https://github.com/mdds-labs/tmai-release/releases/download/macos_v1.0.5/vbtm-tmu-v1.0.5.2.zip?download=1",
   "url_download_app_android": "https://link.storjshare.io/jwlgjlfc4bvuvd3qciwtotxxlmsa/vbtm%2FApp-TMAI%2Fandroid-vbtm-tmai-v1.0.2.apk?download=1",
   "url_download_app_tablet": "https://github.com/mdds-labs/tmai-release/releases/download/tablet_v1.0.4/VBTM-TMAI-V1.0.4.1.apk?download=1",
   "version_windows": "1.4.4",
