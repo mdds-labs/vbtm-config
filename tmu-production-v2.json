@@ -1,0 +1,62 @@
+{
+  "api_video": "https://vgmvb.global.ssl.fastly.net/encrypted/API/items/single/",
+  "peers": [
+   "/dns4/node0.hjm.bid/udp/4001/quic-v1/p2p/12D3KooWJVA45ydfCAqRTjJ4SHxdsbyGehvK5EgPwvEM5ifsLPeY",
+    "/dns4/node1.hjm.bid/udp/4001/quic-v1/p2p/12D3KooWMTonuzH86waA39BYPpCeM4sCuEePBfsfiGret2mhcerL",
+    "/dns4/ct1.hjm.bid/udp/4001/quic-v1/p2p/12D3KooWQRn6fopodKZfuZhBZTLrb8UXNTmDX1EgMj6if8g1xBUh",
+    "/dns4/hn1.hjm.bid/udp/4001/quic-v1/p2p/12D3KooWSNoAtqfCUC1BA333gZQJyA95ye4gFnCaDgWxDP9sY7dG"
+  ],
+  "hash": [
+    "bafybeie65uuexn4xu2v5a5ibyvyyw6elvyp2levkjixv264itxn5uvw7mq",
+    "bafybeiek4sndgwn33ummfyfbeuultbrncgt3wu5f5vle34k7amtnc37jma",
+    "bafybeih23tlqaeg7j7suuolh6onammepqn7b4xc3lnyh6gntam3hfwqnle",
+    "bafybeig7sbngt5rdkxhrgbvcf6fr3af34yuz5jauufgpjekc7ygwo5eaki",
+    "bafybeihvxhelfoqyl26mlarjl5cw66lmyubto33oefax5rw75pzydymp6y",
+    "bafybeih3f27qysd4fefl2h37ae6senrjqvnk6noqo4j5xvrngf7nsxux3i",
+    "bafybeibivx3ccbbhv6oeqmoivbxjtcqzpw6dalyaabz3ibm6h3vm2xe67m",
+    "bafybeiecnt4z7ebzrbybjdqece4wwvpklm4uegsnmgitjukf24kh3rfi5i",
+    "bafybeibqg2sekim725s2yssdsx63egkobwbk6xhciwvmmy2lk4khwduw2e"
+  ],
+  "video_playlist": "playlist.m3u8",
+  "cloud_gateway": "https://vgmvb.global.ssl.fastly.net",
+  "ipfs_gateway_local": "http://localhost:8080",
+  "ipfs_gateway_server": "https://cdn-ipfs-sgp.hjm.bid",
+  "json_gateway": "ipfs/Qmcm1tzPUF3o2VbRxobniqDkCUj4hPm15seHFrkkk32ws1/items/single/",
+  "url_download_app_windows": "https://github.com/mdds-labs/tmai-release/releases/download/v1.4.4/VBTM-TMAI-v1.4.4.2.rar?download=1",
+  "url_download_app_macos": "https://github.com/mdds-labs/tmai-release/releases/download/macos_v1.0.5/vbtm-tmu-v1.0.5.2.zip?download=1",
+  "url_download_app_android": "https://link.storjshare.io/jwlgjlfc4bvuvd3qciwtotxxlmsa/vbtm%2FApp-TMAI%2Fandroid-vbtm-tmai-v1.0.2.apk?download=1",
+  "url_download_app_tablet": "https://github.com/mdds-labs/tmai-release/releases/download/tablet_v1.0.4/VBTM-TMAI-V1.0.4.1.apk?download=1",
+  "version_windows": "1.4.4",
+  "version_tablet": "1.0.4",
+  "version_macos": "1.0.5",
+  "version_android": "1.0.2",
+  "message_update_windows": [
+    "Cập nhật dữ liệu thư viện",
+    "Tự động cập nhật dữ liệu môn học"
+  ],
+  "message_update_macos": [
+    "Sửa lỗi play video"
+  ],
+  "message_update_tablet": [
+    "Sửa lỗi play video"
+  ],
+  "message_update_android": [
+    "Tự động cập nhật dữ liệu người dùng"
+  ],
+  "data_update_at" : "16/08/2023",
+  "data_library" : "18/01/2024",
+  "server_encrypted": "tmu-server.hjm.bid",
+  "server_canvas": "https://canvas-tmu.hjm.bid",
+  "local_encrypted": "192.168.2.36:3333",
+  "server_auth": "https://tmai.vbtm.academy/api/auth",
+  "server_graphql": "https://tmai.vbtm.academy/api/graphql",
+  "server_wiki": "https://n8n-vb.hjm.bid/webhook/create-wiki",
+  "status_player": "online",
+  "server_register": "https://vbtm.vercel.app/signup",
+  "server_note":"https://codimd-tmu.hjm.bid",
+  "n8n_create_note":"https://n8n-vb.hjm.bid/webhook/create-note-tmu",
+  "n8n_create_user":"https://n8n-vb.hjm.bid/webhook/create-user-tmu",
+  "vbtm_tmai_domain": "https://tmai.vbtm.academy",
+  "cookie_library_server": "jwt=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGkiOjIsImdycCI6MSwiaWF0IjoxNjcyOTgwMjIyLCJleHAiOjE3Njc2NTMwMjIsImF1ZCI6InVybjp3aWtpLmpzIiwiaXNzIjoidXJuOndpa2kuanMifQ.eZ5bGMsdSwI7InqtjrGyPW-5s5oW43ru9iAK9Gd382KFV4zK0lMsFnMAbLGnUWAMPStQviXCdVKsvp0_x7jJp4O8-cTQNjqaqYkeHUlm822wQle2675pnQfqdKS2yUZn_kPXmY3c4zdZUTuPbhNL6pzGKYSrZt4uLRAfrOurQ3uEGDp29dlyxMYR9Nw6-tegziFtrT4-Q3nnTon6uZ_b1lTvi8Mm555BCBa_wb__bXUyg7_OsQSacGIaru_FhNOA_TT3pnVXVyv2aWTVkOQaPHMlSc_JoHGAafozkWqVde2pf5cAHaxQr_ye_FNj1qs5lbrDdY9bQ3LEGW779y7FWQ",
+  "authorization_library_server": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGkiOjIsImdycCI6MSwiaWF0IjoxNjcyOTgwMjIyLCJleHAiOjE3Njc2NTMwMjIsImF1ZCI6InVybjp3aWtpLmpzIiwiaXNzIjoidXJuOndpa2kuanMifQ.eZ5bGMsdSwI7InqtjrGyPW-5s5oW43ru9iAK9Gd382KFV4zK0lMsFnMAbLGnUWAMPStQviXCdVKsvp0_x7jJp4O8-cTQNjqaqYkeHUlm822wQle2675pnQfqdKS2yUZn_kPXmY3c4zdZUTuPbhNL6pzGKYSrZt4uLRAfrOurQ3uEGDp29dlyxMYR9Nw6-tegziFtrT4-Q3nnTon6uZ_b1lTvi8Mm555BCBa_wb__bXUyg7_OsQSacGIaru_FhNOA_TT3pnVXVyv2aWTVkOQaPHMlSc_JoHGAafozkWqVde2pf5cAHaxQr_ye_FNj1qs5lbrDdY9bQ3LEGW779y7FWQ"
+}
