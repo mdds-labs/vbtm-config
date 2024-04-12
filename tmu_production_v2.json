@@ -50,6 +50,7 @@
   "local_encrypted": "192.168.2.36:3333",
   "server_auth": "https://tmai.vbtm.academy/api/auth",
   "server_graphql": "https://tmai.vbtm.academy/api/graphql",
+  "server_library": "https://thuvien.vbtm.academy/graphql",
   "server_wiki": "https://n8n-vb.hjm.bid/webhook/create-wiki",
   "status_player": "online",
   "server_register": "https://vbtm.vercel.app/signup",
