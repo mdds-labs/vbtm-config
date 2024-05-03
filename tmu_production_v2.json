@@ -57,5 +57,10 @@
   "server_note":"https://codimd-tmu.hjm.bid",
   "n8n_create_note":"https://n8n-vb.hjm.bid/webhook/create-note-tmu",
   "n8n_create_user":"https://n8n-vb.hjm.bid/webhook/create-user-tmu",
+   "gatewayList": [
+    "https://cdn.vgm.tv",
+    "https://cdn1.vgm.tv",
+    "https://cdn-ct.vgm.tv"
+  ],
   "vbtm_tmai_domain": "https://tmai.vbtm.academy"
 }
