@@ -51,6 +51,7 @@
   "status_player": "online",
   "vbtm_tm_domain": "https://tm.vbtm.academy",
   "server_wiki": "https://n8n-vb.hjm.bid/webhook/create-wiki",
+  "server_library": "https://thuvien.vbtm.academy/graphql",
   "gatewayList": [
     "https://cdn.vgm.tv",
     "https://cdn1.vgm.tv",
