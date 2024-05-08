@@ -62,5 +62,6 @@
     "https://cdn1.vgm.tv",
     "https://cdn-ct.vgm.tv"
   ],
+  "server_library": "https://thuvien.vbtm.academy/graphql",
   "vbtm_tmai_domain": "https://tmai.vbtm.academy"
 }
