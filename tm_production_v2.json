@@ -55,5 +55,6 @@
     "https://cdn1.vgm.tv",
     "https://cdn-ct.vgm.tv"
   ],
+  "server_library": "https://thuvien.vbtm.academy/graphql",
   "server_wiki": "https://n8n-vb.hjm.bid/webhook/create-wiki"
 }
