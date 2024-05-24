@@ -102,7 +102,7 @@
     "PublicGateways": {
       "localhost": {
         "Paths": ["/ipfs", "/ipns"],
-        "UseSubdomains": true
+        "UseSubdomains": false
       }
     },
     "RootRedirect": "",
