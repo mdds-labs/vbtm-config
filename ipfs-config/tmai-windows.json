@@ -74,7 +74,7 @@
   },
   "Discovery": {
     "MDNS": {
-      "Enabled": true
+      "Enabled": false
     }
   },
   "Experimental": {
