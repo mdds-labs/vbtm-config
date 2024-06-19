@@ -23,18 +23,18 @@
   "ipfs_gateway_server": "http://cdn-ipfs-vn.hjm.bid",
   "json_gateway": "https://cdn.vgm.tv/ipfs/QmXMoYokxv6J2VDHTauyCJt8xUmKHkvupjiRnidKp4YHWe/items/single/",
   "url_download_app": "https://github.com/mdds-labs/tm-release/releases/download/v1.6.1/VBTM-TM-Win-v1.6.1.rar?download=1",
-  "url_app_vbtm_macos": "https://github.com/mdds-labs/tm-release/releases/download/v1.6.1/vbtm-tm-macos-v1.0.9.1.zip?download=1",
+  "url_app_vbtm_macos": "https://github.com/mdds-labs/tm-release/releases/download/v1.6.1/VBTM-TM-MacOS-1.1.0.zip?download=1",
   "url_app_vbtm_android": "https://play.google.com/store/apps/details?id=com.vbtm.tm&pcampaignid=web_share",
   "url_app_vbtm_tablet": "https://play.google.com/store/apps/details?id=com.vbtm.tm&pcampaignid=web_share?download=1",
   "version_windows": "1.6.1",
-  "version_macos": "1.0.9",
+  "version_macos": "1.1.0",
   "version_tablet": "1.1.0",
   "version_android": "1.1.0",
   "message_update_windows": [
     "Cập nhật video"
   ],
   "message_update_macos": [
-    "Sửa lỗi player video"
+    "Sửa lỗi tải video"
   ],
   "message_update_tablet": [
     "Sửa lỗi player video"
