@@ -52,7 +52,7 @@
   "server_graphql": "https://tm.vbtm.academy/api/graphql",
   "status_player": "online",
   "vbtm_tm_domain": "https://tm.vbtm.academy",
-  "gateway_list": [
+  "gatewayList": [
     "https://cdn.vgm.tv",
     "https://cdn1.vgm.tv",
     "https://cdn-ct.vgm.tv"
