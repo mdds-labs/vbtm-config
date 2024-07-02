@@ -59,5 +59,6 @@
   ],
   "server_library": "https://thuvien.vbtm.academy/graphql",
   "server_wiki": "https://n8n-vb.hjm.bid/webhook/create-wiki",
+  "port_player":"4200",
   "port_ipfs":"24681"
 }
