@@ -22,17 +22,17 @@
   "ipfs_gateway_local": "http://localhost:8080",
   "ipfs_gateway_server": "https://cdn-ipfs-sgp.hjm.bid",
   "json_gateway": "ipfs/Qmcm1tzPUF3o2VbRxobniqDkCUj4hPm15seHFrkkk32ws1/items/single/",
-  "url_download_app_windows": "https://github.com/mdds-labs/tmai-release/releases/download/v1.4.5/VBTM-TMAI-v1.4.5.rar?download=1",
+  "url_download_app_windows": "https://github.com/mdds-labs/tmai-release/releases/download/v1.4.6/VBTM-TMAI.-Win-v1.4.6.rar?download=1",
   "url_download_app_macos": "https://github.com/mdds-labs/tmai-release/releases/download/macos_v1.0.6/vbtm-tmu-v1.0.6-v2.zip?download=1",
   "url_download_app_android": "https://play.google.com/store/apps/details?id=com.vbtm.tmai&pcampaignid=web_share",
   "url_download_app_tablet": "https://github.com/mdds-labs/tmai-release/releases/download/tablet_v1.0.4/VBTM-TMAI-V1.0.4.1.apk?download=1",
-  "version_windows": "1.4.4",
+  "version_windows": "1.4.6",
   "version_tablet": "1.0.4",
   "version_macos": "1.0.6",
   "version_android": "1.0.4",
   "message_update_windows": [
-    "Cập nhật dữ liệu thư viện",
-    "Tự động cập nhật dữ liệu môn học"
+    "Cập nhật UI download",
+    "Cập nhật player"
   ],
   "message_update_macos": [
     "Sửa lỗi play video"
