@@ -43,7 +43,7 @@
   "message_update_android": [
     "Fix config IPFS"
   ],
-  "data_update_at": "03-07-2024",
+  "data_update_at": "01-08-2024",
   "server_encrypted": "tm-server.hjm.bid",
   "local_encrypted": "192.168.2.36:3333",
   "server_auth": "https://tm.vbtm.academy/api/auth",
