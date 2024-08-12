@@ -233,72 +233,113 @@
       "name": "Chứng Chỉ Nghiên Cứu Thần Học",
       "sections": [
         {
-          "name": "Giáo Lý Hệ Thống Thần Học",
+          "name": "1-Giáo Lý Về Đức Chúa Trời",
           "subsections": [
             {
-              "name": "Chứng Tự Tân Giao Ước",
+              "name": "Chúng Ta Tin Đức Chúa Trời",
               "lessons": [
-                "Bài 1: Những Gì Chúng Ta Phải Tin",
-                "Bài 2: Đức Chúa Trời: Bản Chất Và Các Thuộc Tính",
-                "Bài 3: Đức Chúa Trời Ba Ngôi",
+                "Bài 1: Những Gì Chúng Ta Biết Về Đức Chúa Trời",
+                "Bài 2: Đức Chúa Trời Khác Biệt Thế Nào?",
+                "Bài 3: Đức Chúa Trời Giống Chúng Ta Thế Nào?",
                 "Bài 4: Chương Trình Và Công Việc Của Đức Chúa Trời"
               ]
-            }
-          ]
-        },
-        {
-          "name": "Xây Dựng Thần Học Hệ Thống",
-          "lessons": [
-            "Bài 1: Thần Học Là Gì?",
-            "Bài 2: Thiên Ngôi Chúa Phân Trong Thần Học Hệ Thống",
-            "Bài 3: Các Bước Lập Luận Trong Thần Học Hệ Thống",
-            "Bài 4: Các Giá Trị Trong Thần Học Hệ Thống"
-          ]
-        },
-        {
-          "name": "Thần Luận Học",
-          "subsections": [
+            },
             {
-              "name": "Chứng Tự Tân Ước Thần Luận",
+              "name": "Xây Dựng Thần Học Hệ Thống",
               "lessons": [
-                "Bài 1: Đức Đức Chúa Trời",
-                "Bài 2: Thiên Tính Chúa",
-                "Bài 3: Nhị Nguyên",
-                "Bài 4: Tam Vị"
+                "Bài 1: Thần Học Hệ Thống Là Gì?",
+                "Bài 2: Thần Ngôn Chuyên Môn Trong Thần Học Hệ Thống",
+                "Bài 3: Các Quan Điểm Trong Thần Học Hệ Thống",
+                "Bài 4: Các Giá trị Trong Thần Học Hệ Thống"
               ]
             }
           ]
         },
         {
-          "name": "Nhân Chủng Học và Lai Tội Học",
+          "name": "2-Cơ Đốc Học",
           "subsections": [
             {
-              "name": "Loài Người Và Tội",
+              "name": "Chúng Ta Tin Chúa Giê-xu",
               "lessons": [
-                "Bài 1: Sáng Tạo",
-                "Bài 2: Bản Tâm Tánh Của Loài Người Đã Sa Ngã",
-                "Bài 3: Tội Lỗi Và Con Người",
-                "Bài 4: Giao Ước Và Sự Sa Ngã"
+                "Bài 1: Đấng Cứu Chuộc",
+                "Bài 2: Chúa Cứu Thế",
+                "Bài 3: Đấng Tiên Tri",
+                "Bài 4: Thầy Tế Lễ",
+                "Bài 5: Vua Mùi"
+              ]
+            },
+            {
+              "name": "Giáo Lý Đức Chúa Trời Ba Ngôi",
+              "lessons": [
+                "Bài 1: Giới Thiệu Về Đức Chúa Trời Ba Ngôi",
+                "Bài 2: Sự Hiệp Nhất Của Ba Ngôi Đức Chúa Trời",
+                "Bài 3: Sự Khác Biệt Của Ba Ngôi Đức Chúa Trời"
               ]
             }
           ]
         },
         {
-          "name": "Đấng Christ Luận",
+          "name": "3-Thánh Linh Học",
           "subsections": [
             {
-              "name": "Quan Điểm Đúng Thần Kinh Thánh",
+              "name": "Chúng Ta Tin Đức Thánh Linh",
               "lessons": [
-                "Bài 1: Giáo Lý Về Đấng Christ",
-                "Bài 2: Cuộc Sống Và Chức Vụ Của Đức Chúa Jesus",
-                "Bài 3: Sự Chết Của Đức Chúa Jesus",
-                "Bài 4: Sự Phục Sinh, Thăng Thiên Và Tái Lâm",
-                "Bài 5: Quan Điểm Tân Phái Tự Do, Sự Phê Phán Và Giải Pháp",
-                "Bài 6: Giáo Lý Về Sự Cứu Chuộc",
-                "Bài 7: Quan Điểm Thần Học Hiện Đại Về Sự Cứu Chuộc",
-                "Bài 8: Sự Cứu Chuộc Và Văn Hóa",
-                "Bài 9: Sự Cứu Rỗi: Ứng Dụng Công Việc Cứu Chuộc",
-                "Bài 10: Ân Điển Tiên Tri Và Sự Xưng Công Bình"
+                "Bài 1: Tin Ngài Đức Chúa Trời",
+                "Bài 2: Tháng Thái Quán",
+                "Bài 3: Đức Thánh",
+                "Bài 4: Ân Sủng Phổ Tề"
+              ]
+            },
+            {
+              "name": "Xây Dựng Thần Học Thánh Kinh",
+              "lessons": [
+                "Bài 1: Thần Học Thánh Kinh Là Gì?",
+                "Bài 2: Tổng Quan Về Những Nhấn Của Cựu Ước",
+                "Bài 3: Sự Phát Triển Theo Thời Gian Của Cựu Ước",
+                "Bài 4: Ý Nghĩa Hiện Tại Của Thần Học Thánh Kinh Cựu Ước"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "4-Nhân Chủng Học và Lai Thế Học",
+          "subsections": [
+            {
+              "name": "Loài Người Là Gì?",
+              "lessons": [
+                "Bài 1: Buổi Ban Đầu",
+                "Bài 2: Bản Thân Dân Trong Hình Ảnh Của Chúa",
+                "Bài 3: Sự Rơi Và Của Tội Lỗi",
+                "Bài 4: Giao Ước Ân Điển"
+              ]
+            },
+            {
+              "name": "Nước Của Đức Chúa",
+              "lessons": [
+                "Bài 1: Thời Tiền Cứu Chuộc Ngày Tận",
+                "Bài 2: Người Sống Và Người Chết",
+                "Bài 3: Trời Mới Đất Mới",
+                "Bài 4: Sự Kết Thúc Cuối Thời Đại"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "5-Đạo Đức Thánh Kinh",
+          "subsections": [
+            {
+              "name": "Quyết Định Đúng Theo Kinh Thánh",
+              "lessons": [
+                "Bài 1: Đạo Đức Trong Kinh Thánh",
+                "Bài 2: Quan Điểm Của Chuẩn Đức Chúa Trời Và Lời Ngài",
+                "Bài 3: Cá Tính Đúng Đắn Của Kinh Thánh",
+                "Bài 4: Cấu Trúc Tình Huống Của Kinh Thánh Và Các Phương Diện Của Kinh Thánh",
+                "Bài 5: Quan Điểm Tiền Hướng Sự Hiểu Biết Về Trình Tự",
+                "Bài 6: Đạo Điểm Ứng Thông Theo Kinh Điển Tiêu Chuẩn",
+                "Bài 7: Cân Điểm Ứng Hưởng Đầu Các Sự Kiện",
+                "Bài 8: Đạo Điểm Ứng Hưởng Tiền Thời Gian",
+                "Bài 9: Đạo Điểm Ứng Hưởng Tên Văn Hóa Lịch",
+                "Bài 10: Đạo Điểm Ứng Hưởng Trong Cá Nhân Đưa Phụ"
               ]
             }
           ]
