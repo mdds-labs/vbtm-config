@@ -1,5 +1,110 @@
 {
   "categories" : [
+    {
+  "name": "Chứng Chỉ Nền Tảng",
+  "sections": [
+    {
+      "name": "1-Nền Tảng Thánh Kinh",
+      "subsections": [
+        {
+          "name": "Vương Quốc Giao Ước & Kinh Điển Cựu Ước",
+          "lessons": [
+            "Bài 1: Tại Sao Phải Nghiên Cứu Cựu Ước?",
+            "Bài 2: Vương Quốc Đức Chúa Trời Trong Cựu Ước",
+            "Bài 3: Các Giao Ước Thánh Lịnh",
+            "Bài 4: Kinh Điển Cựu Ước"
+          ]
+        },
+        {
+          "name": "Vương Quốc & Giao Ước Trong Tân Ước",
+          "lessons": [
+            "Bài 1: Tại Sao Phải Nghiên Cứu Thần Học Tân Ước",
+            "Bài 2: Vương Quốc Đức Chúa Trời Trong Tân Ước",
+            "Bài 3: Các Giao Ước Mới"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "2-Nền Tảng Thần học",
+      "subsections": [
+        {
+          "name": "Tín điều các Sứ đồ",
+          "lessons": [
+            "Bài 1: Các Tín Điều",
+            "Bài 2: Đức Chúa Cha",
+            "Bài 3: Chúa Cứu Thế Giê-xu",
+            "Bài 4: Đức Thánh Linh",
+            "Bài 5: Hội Thánh",
+            "Bài 6: Sự Cứu Rỗi"
+          ]
+        },
+        {
+          "name": "Xây Dựng Thần Học Của Bạn",
+          "lessons": [
+            "Bài 1: Thần học Là Gì",
+            "Bài 2: Khám Phá Thần Học Cơ Đốc",
+            "Bài 3: Nương Cậy Sự Mặc Khải",
+            "Bài 4: Thẩm Quyền Trong Thần Học"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "3-Nền Tảng Cựu Ước",
+      "subsections": [
+        {
+          "name": "Bộ Ngũ Kinh",
+          "lessons": [
+            "Bài 1: Giới Thiệu Ngũ Kinh",
+            "Bài 2: Thế Trưởng Gia-cốp",
+            "Bài 3: Gia-cốp & Các Anh Em",
+            "Bài 4: Thẩm Quyền Trong Thần Học"
+          ]
+        },
+        {
+          "name": "Lịch Sử Sơ Khai",
+          "lessons": [
+            "Bài 1: Một Thế Giới Hoàn Hảo",
+            "Bài 2: Thiên Đàng Bị Đánh Mất & Được Tìm Thấy",
+            "Bài 3: Một Thế Giới Tàn Bạo",
+            "Bài 4: Phương Hướng Đúng Đắn"
+          ]
+        },
+        {
+          "name": "Tổ Phụ Áp-ra-ham",
+          "lessons": [
+            "Bài 1: Đời Sống Áp-ra-ham",
+            "Bài 2: Đời Sống Áp-ra-ham Áp Dụng Hiện Đại"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "4-Nền Tảng Tân Ước",
+      "subsections": [
+        {
+          "name": "Các Sách Phúc Âm",
+          "lessons": [
+            "Bài 1: Giới Thiệu Các Sách Phúc Âm",
+            "Bài 2: Phúc Âm Ma-thi-ơ",
+            "Bài 3: Phúc Âm Mác",
+            "Bài 4: Phúc Âm Lu-ca",
+            "Bài 5: Phúc Âm Giăng"
+          ]
+        },
+        {
+          "name": "Sách Công Vụ Các Sứ Đồ",
+          "lessons": [
+            "Bài 1: Bối Cảnh Sách Công Vụ Các Sứ Đồ",
+            "Bài 2: Cấu Trúc Và Nội Dung Sách Công Vụ Các Sứ Đồ",
+            "Bài 3: Các Chủ Đề Chính Của Sách Công Vụ Các Sứ Đồ"
+          ]
+        }
+      ]
+    }
+  ]
+},
      {
       "name": "Chứng Chỉ Nghiên Cứu Thần Học",
       "sections": [
