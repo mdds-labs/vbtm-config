@@ -32,6 +32,96 @@
           "urlImage": "https://store.hjm.bid/v1/storage/buckets/tm-storage/files/66babcd50000589d7b70/view?project=vbtm&mode=admin"
         }
       ]
+    },
+    {
+      "name": "Tân Ước",
+      "sections": [
+        {
+          "name": "Trọng Tâm Thần Học Theo Phao-lô",
+          "urlImage": "https://store.hjm.bid/v1/storage/buckets/tm-storage/files/66babe1d003b22e46e1a/view?project=vbtm&mode=admin"
+        },
+        {
+          "name": "Thư Tín Gia-cơ",
+          "urlImage": "https://store.hjm.bid/v1/storage/buckets/tm-storage/files/66bac09b0010e6cba5fa/view?project=vbtm&mode=admin"
+        },
+        {
+          "name": "Sách Hê-bơ-rơ",
+          "urlImage": "https://store.hjm.bid/v1/storage/buckets/tm-storage/files/66bac1220014eeee6f5a/view?project=vbtm&mode=admin"
+        },
+        {
+          "name": "Vương Quốc Và Giao Ước Trong Tân Ước",
+          "urlImage": "https://store.hjm.bid/v1/storage/buckets/tm-storage/files/66bac1500038ed45688b/view?project=vbtm&mode=admin"
+        },
+        {
+          "name": "Sách Khải Huyền",
+          "urlImage": "https://store.hjm.bid/v1/storage/buckets/tm-storage/files/66bac16d002b395d2246/view?project=vbtm&mode=admin"
+        },
+        {
+          "name": "Các Sách Phúc Âm",
+          "urlImage": "https://store.hjm.bid/v1/storage/buckets/tm-storage/files/66bac188000bc0517160/view?project=vbtm&mode=admin"
+        },
+        {
+          "name": "Công Vụ Các Sứ Đồ",
+          "urlImage": "https://store.hjm.bid/v1/storage/buckets/tm-storage/files/66bac1a30014d2133fe6/view?project=vbtm&mode=admin"
+        },
+        {
+          "name": "Các Thư Tín Trong Tù Của Phao-lô",
+          "urlImage": "https://store.hjm.bid/v1/storage/buckets/tm-storage/files/66bac1cb0025cc1c3a8a/view?project=vbtm&mode=admin"
+        }
+      ]
+    },
+    {
+      "name": "Thần Học",
+      "section": [
+        {
+          "name": "Xây Dựng Thần Học Của Bạn",
+          "urlImage": "https://example.com/image1.jpg"
+        },
+        {
+          "name": "Lịch Sử Hội Thánh",
+          "urlImage": "https://example.com/image2.jpg"
+        },
+        {
+          "name": "Giáo Lý Thánh Kinh Về Ba Ngôi Thiên Chúa",
+          "urlImage": "https://example.com/image3.jpg"
+        },
+        {
+          "name": "Vương Quốc Ngài Đến: Lai Thế Học",
+          "urlImage": "https://example.com/image4.jpg"
+        },
+        {
+          "name": "Chúng Ta Tin Chúa Giê-xu",
+          "urlImage": "https://example.com/image5.jpg"
+        },
+        {
+          "name": "Tín Điều Các Sứ Đồ",
+          "urlImage": "https://example.com/image6.jpg"
+        },
+        {
+          "name": "Xây Dựng Thần Học Thánh Kinh",
+          "urlImage": "https://example.com/image7.jpg"
+        },
+        {
+          "name": "Đưa Ra Quyết Định Theo Kinh Thánh",
+          "urlImage": "https://example.com/image8.jpg"
+        },
+        {
+          "name": "Chúng Ta Tin Chúa Thánh Linh",
+          "urlImage": "https://example.com/image9.jpg"
+        },
+        {
+          "name": "Con Người Là Chi?",
+          "urlImage": "https://example.com/image10.jpg"
+        },
+        {
+          "name": "Chúng Ta Tin Thiên Chúa",
+          "urlImage": "https://example.com/image11.jpg"
+        },
+        {
+          "name": "Nền Tảng Của Việc Giải Kinh",
+          "urlImage": "https://example.com/image12.jpg"
+        }
+      ]
     }
   ]
 }
