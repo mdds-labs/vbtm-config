@@ -44,7 +44,7 @@
     "Fix config IPFS",
     "Cập nhật UI"
   ],
-  "data_update_at": "08-08-2024",
+  "data_update_at": "08-12-2024",
   "server_encrypted": "tm-server.hjm.bid",
   "local_encrypted": "192.168.2.36:3333",
   "server_auth": "https://tm.vbtm.academy/api/auth",
