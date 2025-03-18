@@ -3,5 +3,5 @@
   "macos": "https://github.com/mdds-labs/tm-release/releases/download/v1.6.3/vbtm-tm_0.1.0_aarch64.dmg?download=1",
   "android": "https://github.com/mdds-labs/tm-release/releases/download/v1.6.3/tm-v2-1.0.0.apk?download=1",
   "ios": "https://play.google.com/store/apps/details?id=com.vbtm.tmai&pcampaignid=web_share",
-  "tablet": "https://github.com/mdds-labs/tmai-release/releases/download/tablet_v1.0.4/VBTM-TMAI-V1.0.4.1.apk?download=1"
+  "tablet": "https://github.com/mdds-labs/tm-release/releases/download/v1.6.3/tm-v2-1.0.0.apk?download=1"
 }
