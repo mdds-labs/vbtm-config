@@ -1,4 +1,5 @@
 {
+  "version": "v2.0.0",
   "windows": "https://github.com/mdds-labs/tmai-release/releases/download/v1.4.6/VBTM-TMAI.-Win-v1.4.6.rar?download=1",
   "macos": "https://github.com/mdds-labs/tm-release/releases/download/v1.6.3/vbtm-tm_0.1.0_aarch64.dmg?download=1",
   "android": "https://github.com/mdds-labs/tm-release/releases/download/v1.6.3/tm-v2-1.0.0.apk?download=1",
