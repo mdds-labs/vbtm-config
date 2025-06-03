@@ -1,5 +1,5 @@
 {
-  "latestVersion": "2.0.3",
+  "latestVersion": "2.0.4",
   "windows": "https://github.com/mdds-labs/tm-release/releases/download/v2.0.4/vbtm-tm_2.0.4.zip?download=1",
   "macos": "https://github.com/mdds-labs/tm-release/releases/download/v2.0.4/vbtm-tm-2.0.4.pkg?download=1",
   "macosIntel":"https://github.com/mdds-labs/tm-release/releases/download/v2.0.4/vbtm-tm-2.0.4.pkg?download=1",
