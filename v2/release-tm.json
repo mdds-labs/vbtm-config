@@ -1,12 +1,12 @@
 {
-  "latestVersion": "3.0.1",
-  "windowsVersion": "3.0.1",
-  "macosVersion": "3.0.1",
+  "latestVersion": "3.0.2",
+  "windowsVersion": "3.0.2",
+  "macosVersion": "3.0.2",
   "androidVersion": "3.0.3",
   "iosVersion": "3.0.0",
-  "windows": "https://github.com/mdds-labs/tm-release/releases/download/v3.0.1/vbtm-tm_3.0.1_x64_en-US.2.msi.zip?download=1",
-  "macos": "https://github.com/mdds-labs/tm-release/releases/download/v3.0.1/vbtm-tm-v3.0.1.zip?download=1",
-  "macosIntel":"https://github.com/mdds-labs/tm-release/releases/download/v3.0.1/vbtm-tm-v3.0.1.zip?download=1",
+  "windows": "https://github.com/mdds-labs/tm-release/releases/download/v3.0.2/vbtm-tm_3.0.2_x64_en-US.zip?download=1",
+  "macos": "https://github.com/mdds-labs/tm-release/releases/download/v3.0.2/vbtm-tm-v3.0.2-macos.zip?download=1",
+  "macosIntel":"https://github.com/mdds-labs/tm-release/releases/download/v3.0.2/vbtm-tm-v3.0.2-macos.zip?download=1",
   "android": "https://play.google.com/store/apps/details?id=com.vbtm.tm&pcampaignid=web_share",
   "ios": "https://apps.apple.com/vn/app/vbtm/id6502445413?l=vi",
   "tablet": "https://play.google.com/store/apps/details?id=com.vbtm.tm&pcampaignid=web_share"
