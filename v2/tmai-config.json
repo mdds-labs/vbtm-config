@@ -1,0 +1,8 @@
+{
+  "VITE_APPWRITE_ENPOINT": "https://appwrite.vgm.cloud/v1",
+  "VITE_APPWRITE_PROJECT_ID": "tmai",
+  "VITE_APPWRITE_COLLECTION_PROFILE_ID": "profile",
+  "VITE_APPWRITE_DATABASE_ID": "tmai-product",
+  "VITE_APPWRITE_REGION_COLLECTION_ID": "region",
+  "VITE_APPWRITE_FUNCTION_ACTIVE_USER": "user_preference"
+}
