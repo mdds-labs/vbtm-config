@@ -4,7 +4,7 @@
   "macosVersion": "3.0.2",
   "androidVersion": "3.0.4",
   "iosVersion": "3.0.0",
-  "windows": "https://github.com/mdds-labs/tm-release/releases/download/v3.0.2/vbtm-tm_3.0.2_x64_en-US.zip?download=1",
+  "windows": "https://github.com/mdds-labs/tmai-release/releases/download/v3.0.2/vbtm-tmai_3.0.4_x64_en-US.msi?download=1",
   "macos": "https://github.com/mdds-labs/tmai-release/releases/download/v3.0.2/vbtm-tmai-macos-3.0.2.zip?download=1",
   "macosIntel":"https://github.com/mdds-labs/tmai-release/releases/download/v3.0.2/vbtm-tmai-macos-3.0.2.zip?download=1",
   "android": "https://play.google.com/store/apps/details?id=com.vbtm.tm&pcampaignid=web_share",
