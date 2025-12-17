@@ -1,7 +1,7 @@
 {
-  "latestVersion": "3.0.5",
-  "windowsVersion": "3.0.5",
-  "macosVersion": "3.0.5",
+  "latestVersion": "3.0.6",
+  "windowsVersion": "3.0.6",
+  "macosVersion": "3.0.6",
   "androidVersion": "3.0.4",
   "iosVersion": "3.0.0",
   "windows": "https://github.com/mdds-labs/tmai-release/releases/download/v3.0.6/vbtm-tmai_3.0.6_x64_en-US.msi?download=1",
