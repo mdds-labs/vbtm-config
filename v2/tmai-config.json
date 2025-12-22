@@ -6,5 +6,5 @@
   "VITE_APPWRITE_REGION_COLLECTION_ID": "region",
   "VITE_APPWRITE_FUNCTION_ACTIVE_USER": "user_preference",
   "VITE_HOMPAGE": "https://tmai.vbtm.academy", 
-  "API_GATEWAY": https://cdn.vgm.tv/ipfs/QmSzw1mybUaGdPY8sZo53eHQB4hPkpd7RbZ9rUXF4VT2JE"
+  "API_GATEWAY": "https://cdn.vgm.tv/ipfs/QmSzw1mybUaGdPY8sZo53eHQB4hPkpd7RbZ9rUXF4VT2JE"
 }
