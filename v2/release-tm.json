@@ -1,10 +1,10 @@
 {
   "latestVersion": "3.0.2",
-  "windowsVersion": "3.0.8",
+  "windowsVersion": "3.0.9",
   "macosVersion": "3.0.8",
   "androidVersion": "3.0.8",
   "iosVersion": "3.0.0",
-  "windows": "https://github.com/mdds-labs/tm-release/releases/download/v3.0.8/vbtm-tm_3.0.8_x64_en-US.msi?download=1",
+  "windows": "https://github.com/mdds-labs/tm-release/releases/download/v3.0.9/vbtm-tm_3.0.9_x64_en-US.msi?download=1",
   "macos": "https://github.com/mdds-labs/tm-release/releases/download/v3.0.8/vbtm-tm-v3.0.8-macos.zip?download=1",
   "macosIntel":"https://github.com/mdds-labs/tm-release/releases/download/v3.0.8/vbtm-tm-v3.0.8-macos.zip?download=1",
   "android": "https://play.google.com/store/apps/details?id=com.vbtm.tm&pcampaignid=web_share",
